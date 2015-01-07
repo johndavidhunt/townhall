@@ -25,3 +25,13 @@ blockquote {
 a {
 	color: #f49917;
 }
+.nav {
+	list-style: none;
+	background-color: #95161f;
+}
+.nav li {
+	display: inline;
+}
+.nav a {
+	
+}
