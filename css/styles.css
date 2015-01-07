@@ -1,0 +1,27 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+p {
+	color: #333;
+}
+h2 {
+	color: #95161F;
+	font-size: 1.75em;
+}
+h3 {
+	color: #95161F;
+	font-size: 1.25em;
+}
+blockquote {
+	color: #959ea3;
+	font-style: italic;
+}
+
+.date {
+	color: #000e27;
+	font-size: 0.75em;
+	font-weight: bold;
+}
+a {
+	color: #f49917;
+}
